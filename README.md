@@ -1,0 +1,2 @@
+# BlueFox
+themes fave deleted
